@@ -1,0 +1,122 @@
+[
+  {
+    "id": "22c64935-830b-4e3e-b803-0b66483b0a93",
+    "data": [
+      {
+        "text": "weiter",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "4866dcca-a0a8-4051-afbc-eeaaf5696cb1",
+    "data": [
+      {
+        "text": "zeig mir das Nächste",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b42fd3d5-7759-4266-a64d-4bd487007cf3",
+    "data": [
+      {
+        "text": "zeig mir die nächste Seite",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "6d1ea0a6-a6ec-44b7-814a-70ac2d7b111d",
+    "data": [
+      {
+        "text": "zeig mir die folgenden Ergebnisse",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0155786e-96c1-4f9b-9a12-91eeccbf0f8f",
+    "data": [
+      {
+        "text": "öffne die nächste Seite",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1d5db548-5f79-4575-9f71-27566665b94a",
+    "data": [
+      {
+        "text": "lies die nächsten Ergebnisse",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "b29c785f-ea7c-4625-a2dd-4e07259d05a6",
+    "data": [
+      {
+        "text": "vorwärts",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "cb024bba-5896-4a43-912b-e19b9f5d5c15",
+    "data": [
+      {
+        "text": "nächstes Ergebnis",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "b8340e2b-b9dd-4201-8ef0-3f355bb8509d",
+    "data": [
+      {
+        "text": "wechsel zum nächsten",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "fc11c99f-3bd4-4573-9546-078a3c9f8add",
+    "data": [
+      {
+        "text": "nächste Seite",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

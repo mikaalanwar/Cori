@@ -1,0 +1,62 @@
+[
+  {
+    "id": "2df1aa39-27d6-4179-be42-6313fbee980c",
+    "data": [
+      {
+        "text": "What is Coronavirus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f13d83e8-d031-451b-9e18-3d0061a82ab9",
+    "data": [
+      {
+        "text": "What is Covid-19?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8f8ff3f8-6345-474f-a774-18159dbd0999",
+    "data": [
+      {
+        "text": "What is this virus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a8efdca0-ba03-4642-94c6-98545c4bf31b",
+    "data": [
+      {
+        "text": "What is Corona?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "30d4f143-1681-4c86-91ae-00265620bfe3",
+    "data": [
+      {
+        "text": "Tell me more about Coronavirus ...",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]
